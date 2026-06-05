@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
 |  |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0025-reverse-nodes-in-k-group) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
