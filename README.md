@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
