@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
 | [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
