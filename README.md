@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0295-find-median-from-data-stream) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
@@ -76,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
