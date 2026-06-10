@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0500-keyboard-row) |
 | [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Stack
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
 | [0496-next-greater-element-i](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0500-keyboard-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
