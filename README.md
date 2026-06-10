@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0500-keyboard-row) |
 ## Backtracking
@@ -122,5 +123,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0500-keyboard-row](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0500-keyboard-row) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
