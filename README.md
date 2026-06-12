@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0141-linked-list-cycle](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0143-reorder-list) |
 | [0622-design-circular-queue](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0496-next-greater-element-i) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0295-find-median-from-data-stream) |
 ## Heap (Priority Queue)
