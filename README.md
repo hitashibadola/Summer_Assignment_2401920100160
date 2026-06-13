@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0141-linked-list-cycle) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0438-find-all-anagrams-in-a-string) |
