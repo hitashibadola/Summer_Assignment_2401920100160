@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0215-kth-largest-element-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0004-median-of-two-sorted-arrays) |
 | [0037-sudoku-solver](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0037-sudoku-solver) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hitashibadola/Summer_Assignment_2401920100160/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
